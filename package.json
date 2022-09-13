@@ -1,0 +1,26 @@
+{
+  "name": "iim-b1-starter-pack",
+  "displayName": "IIM Bachelor 1 - Extension Pack",
+  "description": "IIM Bachelor 1 - Starter Pack",
+  "version": "1.0.1",
+  "publisher": "IIM-Coding",
+  "author": {
+    "name": "Alexis Bougy"
+  },
+  "icon": "logo-iim.png",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "ritwickdey.liveserver",
+    "zaferayan.lorem-picsum",
+    "pkief.material-icon-theme",
+    "christian-kohler.path-intellisense",
+    "2gua.rainbow-brackets"
+  ]
+}
